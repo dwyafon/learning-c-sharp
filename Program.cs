@@ -10,3 +10,10 @@ namespace learning_c_
         }
     }
 }
+
+// single-line comment
+
+/* 
+multi-line 
+comment 
+*/
