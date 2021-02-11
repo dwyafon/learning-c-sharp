@@ -13,11 +13,3 @@ namespace learning_c_
     }
 }
 
-// single-line comment
-
-/* 
-multi-line 
-comment 
-*/
-
-// C# is typed strongly and statically -- it requires specification of data types and will check types during compilation
